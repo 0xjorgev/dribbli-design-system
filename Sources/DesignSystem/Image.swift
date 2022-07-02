@@ -20,6 +20,7 @@ public extension Image {
         public static let loginBackgroundGreen = loadImageFromBundle(name: "login-background-green")
         public static let signInBackgroundGreen = loadImageFromBundle(name: "signIn-background-green")
         public static let signInBackgroundBlue = loadImageFromBundle(name: "signIn-background-blue")
+        public static let onboardingBackgroundImage = loadImageFromBundle(name: "onboarding-background")
     }
 }
 
