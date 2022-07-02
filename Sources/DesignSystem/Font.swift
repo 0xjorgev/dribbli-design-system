@@ -7,12 +7,12 @@ public extension Font {
     /// Xcode's autocomplete allows for easy discovery of design system fonts.
     /// At any call site that requires a font, type `Font.DesignSystem.<esc>`
     struct DesignSystem {
-        public static let d1 = Font.custom("Organetto-UltraBold", size: 82)
-        public static let h1 = Font.custom("Organetto-UltraBold", size: 48)
+        public static let d1 = Font.custom("Organetto-BoldUltraCnd", size: 82)
+        public static let h1 = Font.custom("Organetto-BoldUltraCnd", size: 48)
         public static let h2 = Font.custom("Organetto-Bold", size: 40)
         public static let h2R = Font.custom("Organetto-Regular", size: 40)
         public static let h3 = Font.custom("Organetto-Bold", size: 36)
-        public static let h1Mob = Font.custom("Organetto-UltraBold", size: 34)
+        public static let h1Mob = Font.custom("Organetto-BoldUltraCnd", size: 34)
         public static let h4 = Font.custom("Organetto-Bold", size: 30)
         public static let h5 = Font.custom("Organetto-Bold", size: 26)
         public static let h2Mob = Font.custom("Organetto-Bold", size: 26)
@@ -34,3 +34,4 @@ public extension Font {
         public static let spanMob = Font.custom("Lato-Regular", size: 10)
     }
 }
+
