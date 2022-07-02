@@ -16,6 +16,10 @@ public extension Image {
         public static let bannerShape7 = loadImageFromBundle(name: "banner-shape-7")
         public static let section2Background = loadImageFromBundle(name: "section-2-background-1")
         public static let section3Gradient = loadImageFromBundle(name: "section-3-degraded")
+        public static let loginBackgroundBlue = loadImageFromBundle(name: "login-background-blue")
+        public static let loginBackgroundGreen = loadImageFromBundle(name: "login-background-green")
+        public static let signInBackgroundGreen = loadImageFromBundle(name: "signIn-background-green")
+        public static let signInBackgroundBlue = loadImageFromBundle(name: "signIn-background-blue")
     }
 }
 
