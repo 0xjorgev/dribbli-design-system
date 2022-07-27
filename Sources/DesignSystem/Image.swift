@@ -21,14 +21,14 @@ public extension Image {
         public static let signInBackgroundGreen = loadImageFromBundle(name: "signIn-background-green")
         public static let signInBackgroundBlue = loadImageFromBundle(name: "signIn-background-blue")
         public static let onboardingBackgroundImage = loadImageFromBundle(name: "onboarding-background")
-        public static let ownGoal = loadImageFromBundle(name:"autogol.png")
-        public static let playerChange = loadImageFromBundle(name:"cambio.png")
-        public static let playerChangeIn = loadImageFromBundle(name:"cambio_in.png")
-        public static let playerChangeOut = loadImageFromBundle(name:"cambio_out.png")
-        public static let redCard = loadImageFromBundle(name:"event_card_red.png")
-        public static let yellowCard = loadImageFromBundle(name:"event_card_yellow.png")
-        public static let goal = loadImageFromBundle(name:"gol.png")
-        public static let penal = loadImageFromBundle(name:"penal.png")
+        public static let ownGoal = loadImageFromBundle(name:"autogol")
+        public static let playerChange = loadImageFromBundle(name:"cambio")
+        public static let playerChangeIn = loadImageFromBundle(name:"cambio_in")
+        public static let playerChangeOut = loadImageFromBundle(name:"cambio_out")
+        public static let redCard = loadImageFromBundle(name:"event_card_red")
+        public static let yellowCard = loadImageFromBundle(name:"event_card_yellow")
+        public static let goal = loadImageFromBundle(name:"gol")
+        public static let penal = loadImageFromBundle(name:"penal")
     }
 }
 
